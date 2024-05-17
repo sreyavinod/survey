@@ -1,0 +1,168 @@
+body{
+
+    background-image: url('image1.jpg');
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    
+    h3{
+    
+    
+    
+        text-align: center;
+    }
+    
+    #a{
+    
+    letter-spacing: 0px;
+    line-height: 15px;
+    
+    }
+    
+    h2{
+    
+    
+        text-align: center;
+        color: white;
+        margin-top: 1px;
+    }
+    
+    .main{
+    
+    height: 40rem;
+    width: 55rem;
+    background-color: rgb(255, 255, 255);
+    margin-left: 20%;
+    margin-bottom: 0%;
+    margin-top: 1px;
+    padding-bottom: 4.5%;
+    }
+    
+    
+    .login1{
+    
+    
+    margin-top: 5px;
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+    padding-bottom: 52px ;
+    float: left;
+    }   
+    
+    .login2{
+    margin-top:5px;
+    width:50%;
+    background-color: rgb(255, 255, 255);
+    padding-bottom: 42px ;
+    float: left;
+    
+    }   
+    
+    
+    
+    
+    .name,.email{
+    
+    padding-left: 90%;
+    
+    }
+    .age{
+    
+    padding-left:92% ;
+    
+    }
+    #a{
+    
+    padding-left: 33%;
+    
+    
+    }
+    
+    
+    #b{
+    
+        padding-left: 3.5%;
+        
+        
+    }
+    
+    
+    #c{
+    
+    
+    padding-left: 57%;
+    
+    
+    
+    }
+    
+    
+    #d{
+    
+    padding-left: 34.6%;
+    
+    
+    }
+    
+    
+    #e{
+    
+    
+    padding-left: 57%;
+    
+    }
+    
+    .namelabel{
+    
+    height: 22px;
+    width: 60%;
+    
+    }
+    
+    
+    .emaillabel{
+    
+    height: 28px;
+    margin-bottom: 18px;
+    width: 60%;
+    
+    }
+    
+    .numberlabel{
+    padding-top:12px ;
+    padding-bottom:-33px;
+    margin-top:-30px;
+    height: 21px;
+    width: 60%;
+    
+    }
+    
+    
+    #sel{
+    
+    width: 40%;
+    height: 30px;
+    
+    }
+    
+    
+    .commentarea{
+    
+    
+    height: 40%;
+    width: 50%;
+    padding-bottom: 30px;
+    
+    }
+    
+    
+    .btn{
+    
+    height: 25px;
+    margin-left: 50%;
+    padding-bottom:1%;
+    color: #ffffff;
+    background-color: rgb(39, 39, 146);
+    
+    }
